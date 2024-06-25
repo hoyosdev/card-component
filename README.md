@@ -16,11 +16,10 @@ This challenge is about creating a simple Product Card Component that adapts to 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repository](https://github.com/hoyosdev/card-component)
+- Live Site URL: [GitHub pages](https://hoyosdev.github.io/card-component/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Hoyosdev](https://www.frontendmentor.io/profile/hoyosdev)
 
